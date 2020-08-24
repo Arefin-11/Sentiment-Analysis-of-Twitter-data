@@ -1,1 +1,2 @@
 # Sentiment-Analysis-of-Twitter-data
+It was a project of a Coursera course, "Python Functions, Files and Dictionaries" on Coursera. Here is this project, some random twitter data such as 'tweet text', 'Number of Retweets', and 'Number of Replies' were given in a csv file. I analysed the data with a word text file containing 'Positive words' and 'Negative words' and them calculate a score for each twwet. Finally I plot a graph how much postive tweet and negative tweet that CSV file had based on the score. 
